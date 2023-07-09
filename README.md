@@ -4,6 +4,8 @@ Professional Readme Generator
 **Project Description**
 -
 This homework is to develop a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+
+-Dev notes:  got it to work but would like make it a bit more elaborate. 
  
 **User Story**
 -
@@ -31,9 +33,11 @@ This homework is to develop a command-line application that dynamically generate
   
 **Deployed link & Screenshot**
 -
-- (Put Link Here)
+- [Readme Generator.webm](https://github.com/Boulter97/Professional-Readme-Generator/assets/118101244/37ba9428-87c4-46ee-b2fc-6ba6bcee615d)
 
-(Put Screenshot Here)
+![Screenshot 2023-07-09 at 10 14 28 pm](https://github.com/Boulter97/Professional-Readme-Generator/assets/118101244/feb2b436-2617-494e-b451-6c342d7ba667)
+
+
 
 
 **References & Resources**
@@ -42,3 +46,4 @@ This homework is to develop a command-line application that dynamically generate
 - https://www.youtube.com/
 - https://developer.mozilla.org/en-US/
 - https://courses.bootcampspot.com/courses/2384/assignments/44584?module_item_id=829184
+- https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
